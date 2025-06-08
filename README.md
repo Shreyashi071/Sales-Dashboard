@@ -33,4 +33,4 @@ Key Questions:
 ----This is crucial for forecasting, budgeting, and preparing for high or low demand periods.
 
 t: ![Dashboard preview:].
-(https://github.com/Shreyashi071/Sales-Dashboard/blob/main/SuperStore_Sales_Forecast_Preview.png)
+https://github.com/Shreyashi071/Sales-Dashboard/issues/1#issue-3128348951
