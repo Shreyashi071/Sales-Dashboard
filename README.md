@@ -32,4 +32,5 @@ Key Questions:
 4. What is the monthly trend of sales and profit, and are there any noticeable seasonal patterns or fluctuations?
 ----This is crucial for forecasting, budgeting, and preparing for high or low demand periods.
 
-Preview: ![preview].(https://github.com/Shreyashi071/Sales-Dashboard/blob/main/SuperStore_Sales_PowerBI_Dashboard_Preview.png).
+![preview](https://raw.githubusercontent.com/Shreyashi071/Sales-Dashboard/main/SuperStore_Sales_PowerBI_Dashboard_Preview.png)
+
