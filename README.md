@@ -32,5 +32,5 @@ Key Questions:
 4. What is the monthly trend of sales and profit, and are there any noticeable seasonal patterns or fluctuations?
 ----This is crucial for forecasting, budgeting, and preparing for high or low demand periods.
 
-t: ![Dashboard preview:].
-https://github.com/Shreyashi071/Sales-Dashboard/issues/1#issue-3128348951
+Preview:
+https://github.com/Shreyashi071/Sales-Dashboard/issues/1
