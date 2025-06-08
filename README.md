@@ -1,25 +1,34 @@
-* SUPERSTORE SALES POWER BI  DASHBOARD *
+SUPERSTORE SALES POWER BI  DASHBOARD                                                                                                      
+
 Incorporated data analysis techniques, specialising in time series analysis, to deliver valuable insights, accurate sales forecassting, and interactive dashboard creation, dring business success
 
-Objectives: 
+Objectives:                                                  
+
 To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
 Tech Stacks: 
+
 The dashboard was built using the folowing tools and technology:
+
 Power BI Desktop - Main data visualization platform used for report creation.
+
 Power Query -  Data transformation and cleaning layer for reshaping and preparing the data.
+
 Dax Query (Data analysis expressions) - Used for calculated measures, dynamic visuals, and conditional logic.
+
 File Format - .pbix for development and .png for dashboard previews. 
 
 Data source:
 The dataset was sourced from Kaggle's publicly available Superstore Sales data for analysis and visualization purposes.
 
 Highlights:
+
 Business problem
 
 The goal is to identify which regions, customer segments, and product categories are impacting sales and profit performance to support data-driven decisions in marketing, inventory, and operations.
 
 Key Questions:
+
 1.Which regions and states are driving the highest and lowest sales and profits?
 ----This helps identify top-performing areas and regions needing strategic focus or support.
 
