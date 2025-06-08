@@ -1,12 +1,12 @@
-SUPERSTORE SALES POWER BI  DASHBOARD                                                                                                      
+Superstore Sales Power BI Dashboard
 
 Incorporated data analysis techniques, specialising in time series analysis, to deliver valuable insights, accurate sales forecassting, and interactive dashboard creation, dring business success
 
-Objectives:                                                  
+🔍 Objective:                                                  
 
 To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
-Tech Stacks: 
+🛠 Tech Stack: 
 
 The dashboard was built using the folowing tools and technology:
 
@@ -18,16 +18,17 @@ Dax Query (Data analysis expressions) - Used for calculated measures, dynamic vi
 
 File Format - .pbix for development and .png for dashboard previews. 
 
-Data source:
+📊 Data Source:
+
 The dataset was sourced from Kaggle's publicly available Superstore Sales data for analysis and visualization purposes.
 
-Highlights:
+⭐ Project Highlights
 
 Business problem
 
 The goal is to identify which regions, customer segments, and product categories are impacting sales and profit performance to support data-driven decisions in marketing, inventory, and operations.
 
-Key Questions:
+❓ Key Analysis Questions:
 
 1.Which regions and states are driving the highest and lowest sales and profits?
 ----This helps identify top-performing areas and regions needing strategic focus or support.
@@ -38,8 +39,10 @@ Key Questions:
 3.How do customer segments (Consumer, Corporate, Home Office) differ in their buying behavior and profitability?
 ----This insight helps tailor marketing and sales strategies per customer group.
 
-4. What is the monthly trend of sales and profit, and are there any noticeable seasonal patterns or fluctuations?
+4.What is the monthly trend of sales and profit, and are there any noticeable seasonal patterns or fluctuations?
 ----This is crucial for forecasting, budgeting, and preparing for high or low demand periods.
+
+Demo:
 
 ![preview](https://raw.githubusercontent.com/Shreyashi071/Sales-Dashboard/main/SuperStore_Sales_PowerBI_Dashboard_Preview.png)
 
